@@ -5,7 +5,7 @@ provider:
   name: aws
   runtime: python3.12
   iam:
-    role: arn:aws:iam::698659851583:role/LabRole
+    role: arn:aws:iam::975050197903:role/LabRole
 
 functions:
   listar:
